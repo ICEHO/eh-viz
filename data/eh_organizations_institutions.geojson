@@ -4,6 +4,28 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"name": "Center for Ecological History",
+				"acronym": "CEH",
+				"id": "ceh_renmin",
+				"category": "institution",
+				"website": "iqh.ruc.edu.cn/old/zgrmdxstsyjzx/",
+				"basicInfo": "",
+				"countries": "China",
+				"city": "Renmin University",
+				"area": "Asia",
+				"color": "#FF000C"
+			},
+			"geometry": {
+				"coordinates": [
+					116.315729,
+					39.965744					
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"name": "Trinity Centre for Environmental Humanities",
 				"acronym": "TCEH",
 				"id": "tceh",
