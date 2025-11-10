@@ -4,6 +4,28 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"name": "Trinity Centre for Environmental Humanities",
+				"acronym": "TCEH",
+				"id": "tceh",
+				"category": "institution",
+				"website": "www.tcd.ie/tceh/",
+				"basicInfo": "",
+				"countries": "Ireland",
+				"city": "Trinity College Dublin",
+				"area": "Europe",
+				"color": "#FF000C"
+			},
+			"geometry": {
+				"coordinates": [
+					-6.254385,
+					53.343843					
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"name": "Centre for Anthropocene History",
 				"acronym": "CAH",
 				"id": "cah_swe",
