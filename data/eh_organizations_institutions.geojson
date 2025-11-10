@@ -4,6 +4,28 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"name": "Centre for Anthropocene History",
+				"acronym": "CAH",
+				"id": "cah_swe",
+				"category": "institution",
+				"website": "www.kth.se/anthropocenehistory",
+				"basicInfo": "",
+				"countries": "Sweden",
+				"city": "KTH Royal Institute of Technology, Stockholm",
+				"area": "Europe",
+				"color": "#FF000C"
+			},
+			"geometry": {
+				"coordinates": [
+					59.349867,
+					18.070632
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"name": "Forest History Society",
 				"acronym": "FHS",
 				"id": "fhs",
