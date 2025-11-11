@@ -13,7 +13,7 @@
 				"countries": "China",
 				"city": "Renmin University",
 				"area": "Asia",
-				"color": "#FF000C"
+				"color": "#f1680f"
 			},
 			"geometry": {
 				"coordinates": [
@@ -35,7 +35,7 @@
 				"countries": "Ireland",
 				"city": "Trinity College Dublin",
 				"area": "Europe",
-				"color": "#FF000C"
+				"color": "#6F07E8"
 			},
 			"geometry": {
 				"coordinates": [
@@ -57,7 +57,7 @@
 				"countries": "Sweden",
 				"city": "KTH Royal Institute of Technology, Stockholm",
 				"area": "Europe",
-				"color": "#FF000C"
+				"color": "#6F07E8"
 			},
 			"geometry": {
 				"coordinates": [
