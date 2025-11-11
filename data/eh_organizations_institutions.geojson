@@ -4,6 +4,28 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"name": "Ashoka Trust for Research in Ecology and the Environment (ATREE)",
+				"acronym": "ATREE",
+				"id": "atree",
+				"category": "institution",
+				"website": "atree.org/",
+				"basicInfo": "",
+				"countries": "India",
+				"city": "Bangalore",
+				"area": "Asia",
+				"color": "#f1680f"
+			},
+			"geometry": {
+				"coordinates": [
+					77.620279,
+					13.064328					
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"name": "Center for Ecological History",
 				"acronym": "CEH",
 				"id": "ceh_renmin",
