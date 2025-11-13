@@ -4,28 +4,6 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Centre for World Environmental History",
-				"acronym": "CWEH",
-				"id": "cweh",
-				"category": "institution",
-				"website": "https://www.sussex.ac.uk/cweh/",
-				"basicInfo": "",
-				"countries": "United Kingdom",
-				"city": "Sussex",
-				"area": "Europe",
-				"color": "#6F07E8"
-			},
-			"geometry": {
-				"coordinates": [
-					-0.087726,
-					50.867438					
-				],
-				"type": "Point"
-			}
-		},
-		{
-			"type": "Feature",
-			"properties": {
 				"name": "Society for the History of Science Kolkata",
 				"acronym": "SHSK",
 				"id": "shsk",
