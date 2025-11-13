@@ -4,6 +4,28 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"name": "Center for Science and Civilization of SUSTech",
+				"acronym": "SUSTech",
+				"id": "sustech",
+				"category": "institution",
+				"website": "https://rw.sustech.edu.cn/a/En/E&R/Scientific_research_work/2020/0907/488.html",
+				"basicInfo": "",
+				"countries": "China",
+				"city": "Shenzhen",
+				"area": "Asia",
+				"color": "#f1680f"
+			},
+			"geometry": {
+				"coordinates": [
+					113.998603,
+					22.598606					
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"name": "Ashoka Trust for Research in Ecology and the Environment (ATREE)",
 				"acronym": "ATREE",
 				"id": "atree",
