@@ -4,6 +4,50 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"name": "Centre for World Environmental History",
+				"acronym": "CWEH",
+				"id": "cweh",
+				"category": "institution",
+				"website": "https://www.sussex.ac.uk/cweh/",
+				"basicInfo": "",
+				"countries": "United Kingdom",
+				"city": "Sussex",
+				"area": "Europe",
+				"color": "#6F07E8"
+			},
+			"geometry": {
+				"coordinates": [
+					-0.087726,
+					50.867438					
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Society for the History of Science Kolkata",
+				"acronym": "SHSK",
+				"id": "shsk",
+				"category": "institution",
+				"website": "societyforthehistoryofscience.com",
+				"basicInfo": "",
+				"countries": "India",
+				"city": "Kolkata",
+				"area": "Asia",
+				"color": "#f1680f"
+			},
+			"geometry": {
+				"coordinates": [
+					88.380498,
+					22.626966					
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"name": "Center for Science and Civilization of SUSTech",
 				"acronym": "SUSTech",
 				"id": "sustech",
@@ -11,7 +55,7 @@
 				"website": "rw.sustech.edu.cn/a/En/E&R/Scientific_research_work/2020/0907/488.html",
 				"basicInfo": "",
 				"countries": "China",
-				"city": "Southern University of Science and Technology, Shenzhen,",
+				"city": "Southern University of Science and Technology, Shenzhen",
 				"area": "Asia",
 				"color": "#f1680f"
 			},
