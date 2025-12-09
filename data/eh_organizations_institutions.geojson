@@ -4,6 +4,28 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"name": "IANIGLA: Argentinian Institute for Snow Science, Glaciology and Environmental Sciences",
+				"acronym": "IANIGLA",
+				"id": "iani",
+				"category": "institution",
+				"website": "ianigla.conicet.gov.ar/historia-ambiental/",
+				"basicInfo": "",
+				"countries": "Argentina",
+				"city": "National University of Cuyo, Mendoza",
+				"area": "South America",
+				"color": "#34ae80"
+			},
+			"geometry": {
+				"coordinates": [
+					-68.8801735,
+					-32.8795365		
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"name": "LABIMHA: Laboratory for Immigration, Migration and Environmental History",
 				"acronym": "LABIMHA",
 				"id": "labi",
