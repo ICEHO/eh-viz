@@ -4,7 +4,51 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Centro de História Ambiental, Cultura & Tecnología",
+				"name": "LABIMHA: Laboratory for Immigration, Migration and Environmental History",
+				"acronym": "LABIMHA",
+				"id": "labi",
+				"category": "institution",
+				"website": "labimha.ufsc.br/",
+				"basicInfo": "",
+				"countries": "Brazil",
+				"city": "Federal University of Santa Catarina, Florianópolis",
+				"area": "South America",
+				"color": "#f1680f"
+			},
+			"geometry": {
+				"coordinates": [
+					-48.5224425,
+					-27.6034133		
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Fronteiras: Laboratory of Environmental History at UFFS",
+				"acronym": "Front",
+				"id": "front",
+				"category": "institution",
+				"website": "fronteiras.eco.br/",
+				"basicInfo": "",
+				"countries": "Brazil",
+				"city": "Federal University of Fronteira Sul, Cerro Largo",
+				"area": "South America",
+				"color": "#f1680f"
+			},
+			"geometry": {
+				"coordinates": [
+					-54.7564028,
+					-28.1410583				
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "CHAT: Center for Environmental History, Culture and Technology",
 				"acronym": "CHAT",
 				"id": "chat",
 				"category": "institution",
