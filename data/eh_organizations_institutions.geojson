@@ -13,7 +13,7 @@
 				"countries": "Brazil",
 				"city": "Federal University of Santa Catarina, Florianópolis",
 				"area": "South America",
-				"color": "#f1680f"
+				"color": "#34ae80"
 			},
 			"geometry": {
 				"coordinates": [
@@ -35,7 +35,7 @@
 				"countries": "Brazil",
 				"city": "Federal University of Fronteira Sul, Cerro Largo",
 				"area": "South America",
-				"color": "#f1680f"
+				"color": "#34ae80"
 			},
 			"geometry": {
 				"coordinates": [
@@ -57,7 +57,7 @@
 				"countries": "Brazil",
 				"city": "Unicentro, Guarapuava",
 				"area": "South America",
-				"color": "#f1680f"
+				"color": "#34ae80"
 			},
 			"geometry": {
 				"coordinates": [
