@@ -4,6 +4,28 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"name": "Centro de História Ambiental, Cultura & Tecnología",
+				"acronym": "CHAT",
+				"id": "chat",
+				"category": "institution",
+				"website": "www3.unicentro.br/chat/",
+				"basicInfo": "",
+				"countries": "Brazil",
+				"city": "Unicentro, Guarapuava",
+				"area": "South America",
+				"color": "#f1680f"
+			},
+			"geometry": {
+				"coordinates": [
+					-51.4657398,
+					-25.4097815					
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"name": "Society for the History of Science Kolkata",
 				"acronym": "SHSK",
 				"id": "shsk",
