@@ -4,6 +4,95 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"name": "Michoacán",
+				"acronym": "",
+				"id": "hub_michoacan",
+				"category": "hub",
+				"website": "",
+				"basicInfo": "<b>Michoacán</b> is a Mexican state with various institutions working on environmental history. <a href='https://www.ciga.unam.mx/' target='_blank' rel='noopener noreferrer'>The Center for Research in Environmental Geography</a> (CIGA) of the National Autonomous University of Mexico (UNAM) is in the state of Michoacán, in west-central Mexico. Founded in 2007, CIGA has a department of Environmental History, Power, and Territory, the first department of its kind in Mexico. The aim of the department was to generate social and humanistic research that differed from the socio-ecological models of other research centers in Michoacán, which were closer to the biological and ecological sciences. The department is currently led by Pedro Urquijo, a historian and geographer, and Karine Lefebvre, an environmental archaeologist. CIGA is jointly responsible for creating a bachelor's degree program in Geohistory, with a strong environmental focus, which is offered at the National School of Higher Studies (ENES-UNAM) on the Morelia Campus. The UNAM also has a humanities unit in Jiquilpan, Michoacán, where research is conducted on the environmental history of water: the Academic Unit for Regional Studies (UAER UNAM). The UAER collaborates with academic staff from the University of Guadalajara on historical-environmental issues. The <a href='https://www.colmich.edu.mx/' target='_blank' rel='noopener noreferrer'>Colegio de Michoacán</a>, with two campuses—in Zamora and La Piedad—conducts research on climate history, historical marine management, and agriculture and the environment, primarily through three of its centers: Human Geography, History, and Anthropology. Its current president is a prominent environmental historian, Luis Alberto Arrioja Díaz Villaruel.",
+				"countries": "Mexico",
+				"city": "",
+				"area": "Latin America",
+				"color": "#34ae80"
+			},
+			"geometry": {
+				"coordinates": [
+					101.7068,
+					19.5665
+				],
+				"type": "Point"
+			}
+		},
+
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Mexico City",
+				"acronym": "",
+				"id": "hub_mexicocity",
+				"category": "hub",
+				"website": "",
+				"basicInfo": "<b>México City</b> is the place with the largest number of universities in the country. <a href='https://ceh.colmex.mx/' target='_blank' rel='noopener noreferrer'>El Colegio de México</a> and the <a href='https://ibero.mx/' target='_blank' rel='noopener noreferrer'>Universidad Iberoamericana</a> were among the first institutions to make explicit contributions to environmental history in the country, with scholars such as Bernardo García and Alba González Jácome. Currently, the former cultivates environmental history through the <a href='https://sha.colmex.mx/convocatoria-2023-2024/' target='_blank' rel='noopener noreferrer'>Environmental History Seminar</a>, coordinated by Sergio E. Carrera. At UAM-Iztapalapa, Alejandro Tortolero, has trained dozens of generations of environmental historians. The <a href='https://cdmx.ciesas.edu.mx/' target='_blank' rel='noopener noreferrer'>Centro de Investigaciones y Estudios Superiores en Antropología Social</a> also boasts extensive experience in the discipline through the influence of Ángel Palerm, especially via Teresa Rojas, Virginia García Acosta and Antonio Escobar Ohmstede. More recently, the <a href='https://www.cide.edu/programa-docente-dha/' target='_blank' rel='noopener noreferrer'>Centro de Investigación y Docencia Económicas</a> has promoted environmental history through Michael K. Bess. At the <a href='https://www.inah.gob.mx/' target='_blank' rel='noopener noreferrer'>Instituto Nacional de Antropología e Historia</a>, stands out the Permanent Seminar on the Anthropology of Mountains and Climate, coordinated by Margarita Loera and Mauricio R. Hernández. At the Universidad Nacional Autónoma de México (UNAM), in the Facultad de filosofía y letras, teaching in Environmental history started in 1990 with Ignacio Sosa and Juan Humberto Urquiza. In our days there are several institutions that lead research in environmental history at UNAM, such as the <a href='https://historicas.unam.mx/' target='_blank' rel='noopener noreferrer'>Instituto de Investigaciones Históricas</a>, where Sergio Miranda stands out, <a href='http://www.cialc.unam.mx/' target='_blank' rel='noopener noreferrer'>Centro de Investigaciones sobre América Latina y el Caribe</a>, where Diana Alejandra Méndez Rojas contributes, <a href='https://www.filos.unam.mx/' target='_blank' rel='noopener noreferrer'>Facultad de Filosofía y Letras</a>, <a href='https://arquitectura.unam.mx/' target='_blank' rel='noopener noreferrer'>Facultad de Arquitectura</a>, , and the <a href='https://www.encit.unam.mx/' target='_blank' rel='noopener noreferrer'>Escuela Nacional de Ciencias de la Tierra</a>, where Jahzeel Aguilera Lara conducts research at the intersection of environmental history and cultural geography; also, the <a href='https://cideca.geografia.unam.mx/seminario.html' target='_blank' rel='noopener noreferrer'>Seminario de Estudios Críticos Animales</a> and the <a href='https://www.pincc.unam.mx/' target='_blank' rel='noopener noreferrer'>Programa de Investigación en Cambio Climático</a>. Finally, the Instituto de Geografía, where was developed for the first time the historical climatology by a small group guided by Gustavo Garza Merodio. At <a href='https://www.institutomora.edu.mx/' target='_blank' rel='noopener noreferrer'>Instituto Mora</a>, Cintia Velázquez Marroni is carrying out research in the related field of environmental history and heritage.",
+				"countries": "Mexico",
+				"city": "",
+				"area": "Latin America",
+				"color": "#34ae80"
+			},
+			"geometry": {
+				"coordinates": [
+					99.1332,
+					19.4326
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Baja California Sur",
+				"acronym": "",
+				"id": "hub_bajacalifornia",
+				"category": "hub",
+				"website": "",
+				"basicInfo": "<b>Baja California Sur</b> is a pioneering state in environmental history research, thanks to the work of Micheline Cariño Olvera at the Universidad Autónoma de Baja California Sur since 1995. She proposed a five-strategy model for studying the relationships between the societies that have inhabited the Baja California peninsula and their marine, coastal, and desert environments. She has trained dozens of generations of environmental historians and is currently responsible for the <a href='https://www.facebook.com/colabbcs/about/' target='_blank' rel='noopener noreferrer'>Social Sciences Collaboratory for Sustainability</a> (Colab) at UABCS. Thus, there is a group of environmental historians working at the <a href='https://www.uabcs.mx/loreto' target='_blank' rel='noopener noreferrer'>UABCS Loreto campus</a>, such as Wendy L. Domínguez; in Todos Santos, Diego Ramírez Meza, who heads the civil society organization (CSO) <a href='https://www.protecttodossantos.org/' target='_blank' rel='noopener noreferrer'>Proteger Todos Santos</a>; Carlos Ibarra Meza, who contributes to the independent press outlet El Organismo; Azucena Higuera Higuera, a member of the CSO Saberes de rancho; Graciela Tiburcio Pintos, who directs the San José del Cabo–based CSO Organización para la sustentabilidad y la conservación del medio ambiente; and Diana Renée Amao, Ana Luisa Castillo, and Ivett Peña, who actively participate in the Colab.",
+				"countries": "Mexico",
+				"city": "",
+				"area": "Latin America",
+				"color": "#34ae80"
+			},
+			"geometry": {
+				"coordinates": [
+					-111.77489003946273,
+					26.01947040893192
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "San Luis Potosí",
+				"acronym": "",
+				"id": "hub_sanluis",
+				"category": "hub",
+				"website": "",
+				"basicInfo": "<b>San Luis Potosí</b> is the founding city of the Mexican Society of Environmental History. The city has two institutions dedicated to environmental history since the 1990s: the <a href='https://sociales.uaslp.mx/#gsc.tab=0' target='_blank' rel='noopener noreferrer'>Universidad Autónoma de San Luis Potosí</a> (UASLP) and <a href='https://www.colsan.edu.mx/' target='_blank' rel='noopener noreferrer'>El Colegio de San Luis A. C</a>. (COLSAN). Environmental history at UASLP was promoted by Miguel Aguilar Robledo, a student of Karl Butzer. Historians, geographers, and anthropologists participate in its development, and its contribution to environmental history is particularly noteworthy in the training of environmental scientists. The influence of Ángel Palerm is fundamental at COLSAN, where environmental history is developed within the Water and Society Program and the History Program. Juan Carlos Ruiz Guadalajara played a leading role in the development of environmental history at COLSAN, and currently prominent figures include Sergio Cañedo Gamboa and Cleotilde Hernández Suárez. Since 2023, even without forming environmental scientists, the <a href='https://www.ipicyt.edu.mx/ciencias-ambientales' target='_blank' rel='noopener noreferrer'>Environmental Sciences Division</a> of the Instituto Potosino de Investigación Científica y Tecnológica, A. C., has played a prominent role in connecting environmental historians from UASLP and COLSAN.",
+				"countries": "Mexico",
+				"city": "",
+				"area": "Latin America",
+				"color": "#34ae80"
+			},
+			"geometry": {
+				"coordinates": [
+					100.9733,
+					22.1521
+				],
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
 				"name": "IANIGLA: Argentinian Institute for Snow Science, Glaciology and Environmental Sciences",
 				"acronym": "IANIGLA",
 				"id": "iani",
@@ -589,8 +678,8 @@
 			},
 			"geometry": {
 				"coordinates": [
-					-43.185756,
-					-20.928592
+					-43.1729,
+					-22.9068
 				],
 				"type": "Point"
 			}
