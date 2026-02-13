@@ -1,5 +1,19 @@
 [
 	{
+			"name": "Weyerhaeuser Environmental Books",
+		"type": "Book Series",
+		"categories": ["Environmental History"],
+		"areas": [],
+		"acronym": "",
+		"website": "https://uwapress.uw.edu/search-results/?series=weyerhaeuser-environmental-books",
+		"basicInfo": "Weyerhaeuser Environmental Books explore human relationships with natural environments in all their variety and complexity.",
+		"imageName": "books_weyeterhaeuserenvbooks.webp",
+		"years": "",
+		"numberIssues": 1,
+		"countries": "US",
+		"publisher": "Washington University Press"
+	},
+	{
 		"name": "Environmental History",
 		"type": "Journals",
 		"categories": ["Environmental History"],
@@ -207,7 +221,7 @@
 		"years": "",
 		"numberIssues": 1,
 		"countries": "US",
-		"publisher": "Bergham Books"
+		"publisher": "Berghahn Books"
 	},
 	{
 		"name": "Environmental History",
