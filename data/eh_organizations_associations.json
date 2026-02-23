@@ -56,6 +56,21 @@
 		"coordinates": [96, 8]
 	},
 	{
+		"name": "Environmental History Cluster Austria",
+		"acronym": "EHCA",
+		"id": "ehca",
+		"category": "national",
+		"website": "ehca.at",
+		"basicInfo": "The <b>Environmental History Cluster Austria (EHCA)</b> was founded in 2016 as an inter-university research cluster of environmental historians in Austria. The EHCA sees itself as an open forum, particularly for networking and promoting young researchers, and it was founded with the aim of strengthening collaboration among the various institutions in Austria that conduct research in environmental history.",
+		"countries": "Austria",
+		"countriesPolygons": [
+			"Austria"
+		],
+		"area": "Europe",
+		"color": "27BBF5",
+		"coordinates": [47.5, 14.6]
+	},
+	{
 		"name": "American Association of Environmental History",
 		"acronym": "ASEH",
 		"id": "aseh_national",
