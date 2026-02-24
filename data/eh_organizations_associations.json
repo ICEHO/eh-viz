@@ -1,5 +1,20 @@
 [
 	{
+		"name": "La Società Italiana per la Storia dell’Ambiente",
+		"acronym": "SISAM",
+		"id": "sisam",
+		"category": "national",
+		"website": "storiaambientale.it",
+		"basicInfo": "The <b>Italian Society for Environmental History (SISAM)</b> was founded in 2021 and intends to promote studies and research in environmental history in Italy from a transdisciplinary perspective and at multiple spatial scales, from local to global, and across multiple temporal dimensions.",
+		"countries": "Italy",
+		"countriesPolygons": [
+			"ITA"
+		],
+		"area": "Europe",
+		"color": "#F54927",
+		"coordinates": [41.9, 12.6]
+	},
+	{
 		"name": "Environmental History Cluster Austria",
 		"acronym": "EHCA",
 		"id": "ehca",
