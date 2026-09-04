@@ -203,6 +203,27 @@
 		{
 			"type": "Feature",
 			"properties": {
+				"name": "Shanxi University Institute for Environmental Humanities and Disaster Governance",
+				"acronym": "IEHDG",
+				"id": "iehdg",
+				"category": "institution",
+				"website": "siee.sxu.edu.cn/en/",
+				"basicInfo": "",
+				"countries": "China",
+				"city": "Shanxi University, Taiyuan",
+				"area": "Asia",
+				"color": "#f1680f"
+			},
+			"geometry": {
+				"coordinates": [
+					37.8699921,
+					112.5437075					
+				],
+				"type": "Point"
+			}
+		{
+			"type": "Feature",
+			"properties": {
 				"name": "Center for Science and Civilization of SUSTech",
 				"acronym": "SUSTech",
 				"id": "sustech",
